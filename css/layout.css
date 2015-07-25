@@ -783,6 +783,55 @@ call-to-action .button {
     cursor: default;
 }
 
+
+/* ------------------------------------------------------------------ */
+/* c. internetbot Section
+/* ------------------------------------------------------------------ */
+
+#internetbot {
+   background: #2B2B2B;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+}
+
+#internetbot a, #internetbot a:visited  { color: #fff; }
+#internetbot a:hover, #internetbot a:focus { color: #11ABB0; }
+
+#internetbot h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#internetbot p {
+   line-height: 30px;
+   color: #7A7A7A;
+}
+#internetbot .profile-pic {
+   position: relative;
+   width: 120px;
+   height: 120px;
+   border-radius: 100%;
+}
+#internetbot .contact-details { width: 41.66667%; }
+#internetbot .download {
+   width: 58.33333%;
+   padding-top: 6px;
+}
+#internetbot .main-col { padding-right: 5%; }
+#internetbot .download .button {
+   margin-top: 6px;
+   background: #444;
+}
+#internetbot .download .button:hover {
+   background: #fff;
+   color: #2B2B2B;
+}
+#internetbot .download .button i {
+   margin-right: 15px;
+   font-size: 20px;
+}
+
 /* ------------------------------------------------------------------ */
 /* h. Contact Section
 /* ------------------------------------------------------------------ */
