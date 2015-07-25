@@ -819,7 +819,7 @@ call-to-action .button {
    padding-top: 6px;
 }
 #internetbot .main-col { padding-right: 5%; }
-#internetbot .download .button {
+/* #internetbot .download .button {
    margin-top: 6px;
    background: #444;
 }
@@ -831,6 +831,7 @@ call-to-action .button {
    margin-right: 15px;
    font-size: 20px;
 }
+*/
 
 /* ------------------------------------------------------------------ */
 /* h. Contact Section
