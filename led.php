@@ -1,6 +1,6 @@
 <?php
 $onoroff = $_GET["state"]; // Declares the request from index.html as a variable
-$textfile = "LEDstate.txt"; // Declares the name and location of the .txt file
+$textfile = "ikawaljeet.github.io/LEDstate.txt"; // Declares the name and location of the .txt file
  
 $fileLocation = "$textfile";
 $fh = fopen($fileLocation, 'w   ') or die("Something went wrong!"); // Opens up the .txt file for writing and replaces any previous content
